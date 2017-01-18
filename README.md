@@ -1,5 +1,5 @@
 # hospital-management-system
-A hospital management system in JAVA created as part of NIIT's Final Project evaluation.
+A hospital management system created in JAVA.
 
 
 ## Overview
